@@ -1,0 +1,6 @@
+{
+  "key": "Key",
+  "value": "Value",
+  "encrypted_storage_helper": "Encrypt document using public and private keys",
+  "upload_from_document": "Upload from Document"
+}

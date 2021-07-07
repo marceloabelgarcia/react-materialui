@@ -1,0 +1,10 @@
+{
+  "config_options": "Opciones de configuración",
+  "notifications": "Notificaciones",
+  "shared_with_me_notification": "Me han compartido algún documento",
+  "pending_confirm_documents": "Tengo documentos pendientes de confirmar",
+  "removed_access_shared_document": "Se ha eliminado el acceso a un documento compartido",
+  "opening_shared_docs": "Apertura de documentos compartidos",
+  "downloading_shared_docs": "Descarga de documentos compartidos",
+  "streaming_shared_docs": "Streaming de documentos compartidos"
+}
